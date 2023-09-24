@@ -1,3 +1,8 @@
+**Note** I built this project following an exercise from JavaScript Mastery "Build and Deploy a Better Spotify 2.0 Clone Music App with React 18!(Tailwind, Redux, RapidAPI" on youtube.
+Everything that follows in this file comes from the source i followed. In the YouTube video links are included to download starting files as well as RapidAPI links. 
+I'm looking forward to documenting the process for future personal projects along with learning best practices for creating a beautiful README file as this one.
+
+
 # Project Lyrics
 
 Develop an elegant React.js Music Application. 
